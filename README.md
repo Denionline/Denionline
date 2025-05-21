@@ -76,11 +76,19 @@
 
 <div align="center">
  	<h1>42 Projects</h1>
-	<img src="assets/libft.png"/>
+	<a href="https://github.com/Denionline/Libft">
+		<img src="assets/libft.png"/>
+	</a>
 	<div>
-		<img src="assets/born2beroot.png"/>
-		<img src="assets/ft_printf.png"/>
-		<img src="assets/get_next_line.png"/>
+		<a href="https://github.com/Denionline/Born2beRoot">
+			<img src="assets/born2beroot.png"/>
+		</a>
+		<a href="https://github.com/Denionline/ft_printf">
+			<img src="assets/ft_printf.png"/>
+		</a>
+		<a href="https://github.com/Denionline/get_next_line">
+			<img src="assets/get_next_line.png"/>
+		</a>
 	</div>
 </div>
 
