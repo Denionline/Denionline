@@ -74,4 +74,14 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+ 	<h1>42 Projects</h1>
+	<img src="assets/libft.png"/>
+	<div>
+		<img src="assets/born2beroot.png"/>
+		<img src="assets/ft_printf.png"/>
+		<img src="assets/get_next_line.png"/>
+	</div>
+</div>
+
 ###
