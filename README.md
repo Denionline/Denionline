@@ -1,5 +1,5 @@
 <h1 align="left">Hi!  👋 I'm Daniel</h1>
-<h2 align="left">I hope you enjoy my projects 😄</h2>
+<h2 align="left">I hope that you enjoy my projects 😄</h2>
 
 ###
 
