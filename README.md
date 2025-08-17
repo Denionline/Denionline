@@ -92,10 +92,10 @@
 		</a>
 	</div>
   <div class="Milestone2">
-    <a href="https://github.com/Denionline/Born2beRoot">
+    <a href="https://github.com/Denionline/FdF">
 			<img src="assets/fdf.png"/>
 		</a>
-    <a href="https://github.com/Denionline/Born2beRoot">
+    <a href="https://github.com/Denionline/push_swap">
 			<img src="assets/push_swap.png"/>
 		</a>
   </div>
