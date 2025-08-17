@@ -75,10 +75,12 @@
 
 <div align="center">
  	<h1>42 Projects</h1>
-	<a href="https://github.com/Denionline/Libft">
-		<img src="assets/libft.png"/>
-	</a>
-	<div>
+	<div class="Milestone0">
+    <a href="https://github.com/Denionline/Libft">
+      <img src="assets/libft.png"/>
+    </a>
+  </div>
+	<div class="Milestone1">
 		<a href="https://github.com/Denionline/Born2beRoot">
 			<img src="assets/born2beroot.png"/>
 		</a>
@@ -89,6 +91,14 @@
 			<img src="assets/get_next_line.png"/>
 		</a>
 	</div>
+  <div class="Milestone2">
+    <a href="https://github.com/Denionline/Born2beRoot">
+			<img src="assets/fdf.png"/>
+		</a>
+    <a href="https://github.com/Denionline/Born2beRoot">
+			<img src="assets/push_swap.png"/>
+		</a>
+  </div>
 </div>
 
 ###
