@@ -98,6 +98,9 @@
     <a href="https://github.com/Denionline/push_swap">
 			<img src="assets/push_swap.png"/>
 		</a>
+    <a href="https://github.com/Denionline/pipex">
+			<img src="assets/pipex.png"/>
+		</a>
   </div>
 </div>
 
