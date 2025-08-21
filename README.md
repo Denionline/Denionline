@@ -73,10 +73,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph.svg">
 </picture>
 
-##
+###
 
 <div align="center">
-	<p style="font-size: 2rem; font-weight: bold;">42 Projects</p>
+	<h1>42 Projects</h1>
 	<div class="Milestone0">
 		<a href="https://github.com/Denionline/Libft">
 			<img src="assets/libft.png"/>
