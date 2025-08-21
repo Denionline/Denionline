@@ -8,16 +8,16 @@
 ###
 
 <div aI hope you enjoy my projects 😄="www.linkedin.com/in/denionline" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="denionline" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="danielximenes164@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/danilexz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
@@ -73,13 +73,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph.svg">
 </picture>
 
+##
+
 <div align="center">
- 	<h1>42 Projects</h1>
+	<p style="font-size: 2rem; font-weight: bold;">42 Projects</p>
 	<div class="Milestone0">
-    <a href="https://github.com/Denionline/Libft">
-      <img src="assets/libft.png"/>
-    </a>
-  </div>
+		<a href="https://github.com/Denionline/Libft">
+			<img src="assets/libft.png"/>
+		</a>
+	</div>
 	<div class="Milestone1">
 		<a href="https://github.com/Denionline/Born2beRoot">
 			<img src="assets/born2beroot.png"/>
@@ -91,17 +93,17 @@
 			<img src="assets/get_next_line.png"/>
 		</a>
 	</div>
-  <div class="Milestone2">
-    <a href="https://github.com/Denionline/FdF">
+	<div class="Milestone2">
+		<a href="https://github.com/Denionline/FdF">
 			<img src="assets/fdf.png"/>
 		</a>
-    <a href="https://github.com/Denionline/push_swap">
+		<a href="https://github.com/Denionline/push_swap">
 			<img src="assets/push_swap.png"/>
 		</a>
-    <a href="https://github.com/Denionline/pipex">
+		<a href="https://github.com/Denionline/pipex">
 			<img src="assets/pipex.png"/>
 		</a>
-  </div>
+	</div>
 </div>
 
 ###
