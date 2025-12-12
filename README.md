@@ -104,6 +104,14 @@
 			<img src="assets/pipex.png"/>
 		</a>
 	</div>
+  <div>
+    <a href="https://github.com/Denionline/minishell">
+			<img src="assets/minishell.png"/>
+		</a>
+    <a href="https://github.com/Denionline/minishell">
+			<img src="assets/philosophers.png"/>
+		</a>
+  </div>
 </div>
 
 ###
