@@ -108,7 +108,7 @@
     <a href="https://github.com/Denionline/minishell">
 			<img src="assets/minishell.png"/>
 		</a>
-    <a href="https://github.com/Denionline/minishell">
+    <a href="https://github.com/Denionline/philosophers">
 			<img src="assets/philosophers.png"/>
 		</a>
   </div>
