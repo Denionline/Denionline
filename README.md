@@ -1,117 +1,127 @@
-<h1 align="left">Hi!  👋 I'm Daniel</h1>
-<h2 align="left">I hope that you enjoy my projects 😄</h2>
+<section style="text-align: center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=5DCAA5&center=true&vCenter=true&width=435&lines=denionline%40github%3A~%24+_" alt="Typing SVG" />
+</section>
 
-###
 
-<h3 align="left">Contact</h2>
+<section>
+  <p style="font-weight: bold;color: #5DCAA5">denionline@github:~$ <span style="color: orange">whoami</span></p>
 
-###
+  <p>Software developer. I build things close to the metal and far from the ordinary.<br/>When not coding... climbing walls (literally :D).</p>
+</section>
 
-<div aI hope you enjoy my projects 😄="www.linkedin.com/in/denionline" target="_blank">
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="denionline" target="_blank">
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="danielximenes164@gmail.com" target="_blank">
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/danilexz" target="_blank">
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<section>
+  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">cat stack.txt</span></p>
 
-###
+  <p>languages</p>
+    <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=5DCAA5">
+    <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=5DCAA5">
+    <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=5DCAA5">
+    <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=5DCAA5">
+    <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=5DCAA5">
 
-<h3 align="left">Tools</h3>
+  <p>web</p>
+  <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=5DCAA5">
+  <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=5DCAA5">
+  <img src="https://img.shields.io/badge/Tailwind CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=5DCAA5">
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=5DCAA5">
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=5DCAA5">
 
-###
+  <p>api</p>
+  <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=5DCAA5">
+  <img src="https://img.shields.io/badge/Nest.js-0d1117?style=flat-square&logo=nestjs&logoColor=5DCAA5">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+  <p>database</p>
+  <img src="https://img.shields.io/badge/prisma-0d1117?style=flat-square&logo=prisma&logoColor=5DCAA5">
+  <img src="https://img.shields.io/badge/postgresql-0d1117?style=flat-square&logo=postgresql&logoColor=5DCAA5">
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denionline&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+  <p>environment</p>
+    <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=5DCAA5">
 
-###
+  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">cat stats.txt</span></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-	<h1>42 Projects</h1>
-	<div class="Milestone0">
-		<a href="https://github.com/Denionline/Libft">
-			<img src="assets/libft.png"/>
-		</a>
-	</div>
-	<div class="Milestone1">
-		<a href="https://github.com/Denionline/Born2beRoot">
-			<img src="assets/born2beroot.png"/>
-		</a>
-		<a href="https://github.com/Denionline/ft_printf">
-			<img src="assets/ft_printf.png"/>
-		</a>
-		<a href="https://github.com/Denionline/get_next_line">
-			<img src="assets/get_next_line.png"/>
-		</a>
-	</div>
-	<div class="Milestone2">
-		<a href="https://github.com/Denionline/FdF">
-			<img src="assets/fdf.png"/>
-		</a>
-		<a href="https://github.com/Denionline/push_swap">
-			<img src="assets/push_swap.png"/>
-		</a>
-		<a href="https://github.com/Denionline/pipex">
-			<img src="assets/pipex.png"/>
-		</a>
-	</div>
-  <div>
-    <a href="https://github.com/Denionline/minishell">
-			<img src="assets/minishell.png"/>
-		</a>
-    <a href="https://github.com/Denionline/philosophers">
-			<img src="assets/philosophers.png"/>
-		</a>
+  <div style="text-align: center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Denionline&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=5DCAA5&icon_color=5DCAA5&text_color=8b949e" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denionline&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=5DCAA5&text_color=8b949e" />
   </div>
-</div>
+</section>
 
-###
+<section>
+  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">echo <span style="color: #2fa10d">$STATUS</span></span></p>
+  <p>always building something.</p>
+</section>
+
+
+<section>
+  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">cat links.txt</span></p>
+
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=5DCAA5)](https://www.linkedin.com/in/denionline">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox&logoColor=5DCAA5)](https://your-portfolio-url.com">
+</section>
+
+<section>
+  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">./Show42Projects</span></p>
+  <div style="text-align: center">
+  <div class="Milestone0">
+    <h2 style="font-size: 1rem;text-align: left">Milestone 0</h2>
+    <a href="https://github.com/Denionline/Libft">
+      <img src="assets/badges/libft.png"/>
+    </a>
+  </div>
+  <div class="Milestone1">
+    <h2 style="font-size: 1rem;text-align: left">Milestone 1</h2>
+    <a href="https://github.com/Denionline/Born2beRoot">
+      <img src="assets/badges/born2beroot.png"/>
+    </a>
+    <a href="https://github.com/Denionline/ft_printf">
+      <img src="assets/badges/ft_printf.png"/>
+    </a>
+    <a href="https://github.com/Denionline/get_next_line">
+      <img src="assets/badges/get_next_line.png"/>
+    </a>
+  </div>
+  <div class="Milestone2">
+    <h2 style="font-size: 1rem;text-align: left">Milestone 2</h2>
+    <a href="https://github.com/Denionline/FdF">
+      <img src="assets/badges/fdf.png"/>
+    </a>
+    <a href="https://github.com/Denionline/push_swap">
+      <img src="assets/badges/push_swap.png"/>
+    </a>
+    <a href="https://github.com/Denionline/pipex">
+      <img src="assets/badges/pipex.png"/>
+    </a>
+  </div>
+  <div>
+    <h2 style="font-size: 1rem;text-align: left">Milestone 3</h2>
+    <a href="https://github.com/Denionline/minishell">
+      <img src="assets/badges/minishell.png"/>
+    </a>
+    <a href="https://github.com/Denionline/philosophers">
+      <img src="assets/badges/philosophers.png"/>
+    </a>
+  </div>
+  <div>
+    <h2 style="font-size: 1rem;text-align: left">Milestone 4</h2>
+    <a href="https://github.com/Denionline/minirt">
+      <img src="assets/badges/minirt.png"/>
+    </a>
+    <a href="https://github.com/Denionline/net_practice">
+      <img src="assets/badges/netpractice.png"/>
+    </a>
+    <a href="https://github.com/Denionline/cpp_modules">
+      <img src="assets/badges/cpp.png"/>
+    </a>
+  </div>
+  </div>
+</section>
+
+<section>
+  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">./gitpacman</span></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph.svg">
+  </picture>
+</section>
