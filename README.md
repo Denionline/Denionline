@@ -71,13 +71,13 @@
   </div>
   <div align="center">
   <div class="Milestone0">
-    <h2 style="font-size: 1rem;text-align: left">Milestone 0</h2>
+    <h5 align="left">Milestone 0</h2>
     <a href="https://github.com/Denionline/Libft">
       <img src="assets/badges/libft.png"/>
     </a>
   </div>
   <div class="Milestone1">
-    <h2 style="font-size: 1rem;text-align: left">Milestone 1</h2>
+    <h5 align="left">Milestone 1</h2>
     <a href="https://github.com/Denionline/Born2beRoot">
       <img src="assets/badges/born2beroot.png"/>
     </a>
@@ -89,7 +89,7 @@
     </a>
   </div>
   <div class="Milestone2">
-    <h2 style="font-size: 1rem;text-align: left">Milestone 2</h2>
+    <h5 align="left">Milestone 2</h2>
     <a href="https://github.com/Denionline/FdF">
       <img src="assets/badges/fdf.png"/>
     </a>
@@ -101,7 +101,7 @@
     </a>
   </div>
   <div>
-    <h2 style="font-size: 1rem;text-align: left">Milestone 3</h2>
+    <h5 align="left">Milestone 3</h2>
     <a href="https://github.com/Denionline/minishell">
       <img src="assets/badges/minishell.png"/>
     </a>
@@ -110,7 +110,7 @@
     </a>
   </div>
   <div>
-    <h2 style="font-size: 1rem;text-align: left">Milestone 4</h2>
+    <h5 align="left">Milestone 4</h2>
     <a href="https://github.com/Denionline/minirt">
       <img src="assets/badges/minirt.png"/>
     </a>
