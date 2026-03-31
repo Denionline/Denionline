@@ -124,8 +124,11 @@
   </div>
 </section>
 
+##
+
 <section>
-  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">./gitpacman</span></p>
+
+  ### `./gitpacman`
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denionline/denionline/output/pacman-contribution-graph.svg">
