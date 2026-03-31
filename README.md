@@ -1,68 +1,75 @@
-<section style="text-align: center">
+<section align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=5DCAA5&center=true&vCenter=true&width=435&lines=denionline%40github%3A~%24+_" alt="Typing SVG" />
 </section>
 
 
 <section>
-  <p style="font-weight: bold;color: #5DCAA5">denionline@github:~$ <span style="color: orange">whoami</span></p>
 
+  ### whoami
   <p>Software developer. I build things close to the metal and far from the ordinary.<br/>When not coding... climbing walls (literally :D).</p>
+
 </section>
 
 <section>
-  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">cat stack.txt</span></p>
 
-  <p>languages</p>
+  ### Stacks
+
+  `main tecnologies`<p>
     <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=5DCAA5">
     <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=5DCAA5">
     <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=5DCAA5">
     <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=5DCAA5">
     <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=5DCAA5">
 
-  <p>web</p>
+  `web`<p>
   <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=5DCAA5">
   <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=5DCAA5">
   <img src="https://img.shields.io/badge/Tailwind CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=5DCAA5">
   <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=5DCAA5">
   <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=5DCAA5">
 
-  <p>api</p>
+  `api`<p>
   <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=5DCAA5">
   <img src="https://img.shields.io/badge/Nest.js-0d1117?style=flat-square&logo=nestjs&logoColor=5DCAA5">
 
-  <p>database</p>
+  `database`<p>
   <img src="https://img.shields.io/badge/prisma-0d1117?style=flat-square&logo=prisma&logoColor=5DCAA5">
   <img src="https://img.shields.io/badge/postgresql-0d1117?style=flat-square&logo=postgresql&logoColor=5DCAA5">
 
 
-  <p>environment</p>
+  `enviroment`<p>
     <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=5DCAA5">
 
-  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">cat stats.txt</span></p>
+  <!-- <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">cat stats.txt</span></p>
 
   <div style="text-align: center">
     <img src="https://github-readme-stats.vercel.app/api?username=Denionline&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=5DCAA5&icon_color=5DCAA5&text_color=8b949e" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denionline&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=5DCAA5&text_color=8b949e" />
-  </div>
+  </div> -->
 </section>
 
-<section>
+<!-- <section>
   <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">echo <span style="color: #2fa10d">$STATUS</span></span></p>
   <p>always building something.</p>
-</section>
+</section> -->
 
 
 <section>
-  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">cat links.txt</span></p>
+
+  ### Links
 
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=5DCAA5)](https://www.linkedin.com/in/denionline">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox&logoColor=5DCAA5)](https://your-portfolio-url.com">
+  <!-- <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox&logoColor=5DCAA5)](https://your-portfolio-url.com"> -->
 </section>
 
 <section>
-  <p style="font-weight: bold; color: #5DCAA5">denionline@github:~$ <span style="color: white">./Show42Projects</span></p>
-  <div style="text-align: center">
+
+  <div align="center">
+
+  ### 42 Projects
+  </div>
+  <div align="center">
   <div class="Milestone0">
     <h2 style="font-size: 1rem;text-align: left">Milestone 0</h2>
     <a href="https://github.com/Denionline/Libft">
